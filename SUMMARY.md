@@ -4,10 +4,10 @@
 * [How does minecraft work?](how-does-minecraft-work.md)
 * [Contributors](contributors.md)
 
-## Automation and Deployment
+## &#x20;Deployment and Automation
 
-* [GitHub Actions](automation-and-deployment/github-actions.md)
-* [JitPack](automation-and-deployment/jitpack.md)
+* [GitHub Actions](deployment-and-automation/github-actions.md)
+* [JitPack](deployment-and-automation/jitpack.md)
 
 ## Items
 
