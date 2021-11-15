@@ -12,7 +12,7 @@ The path for this example texture is:
 
 `src/resources/assets/<mod-id>/textures/item/my_item.png`
 
-![Blue Book, spooky eh? Credit: BlueCommander](<../../.gitbook/assets/image (5).png>)
+![Blue Book, spooky eh? Credit: BlueCommander](<../../.gitbook/assets/image (8).png>)
 
 ### Item Model
 
@@ -59,4 +59,4 @@ This is optional. [A useful tool for generating crafting recipes can be found he
 ```
 {% endcode %}
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (1).png>)

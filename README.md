@@ -8,7 +8,7 @@ You can probably see that this Guide is heavily WIP. We're constantly developing
 
 The content of this Wiki assumes you know basic Java and JSON knowledge, and have a copy of the example mod ready to be used, along with a setup IDE. You can find instructions to do all of this on the [official Wiki](https://fabricmc.net/wiki/tutorial:setup)
 
-If you are unsure of how Minecraft works code-wise, check out this [page](how-does-minecraft-work.md)
+If you want to learn more about Minecraft's internals, read this [page](how-does-minecraft-work.md)
 
 ## Format
 

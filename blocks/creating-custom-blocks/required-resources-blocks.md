@@ -10,7 +10,7 @@ Well, that's a bit obvious! Your block texture should be 16px by 16px and be in 
 
 The path for this example texture is: `src/main/resources/assets/<mod-id>/textures/block/my_block.png`
 
-![Swirly Dirt! Who doesn't like swirly dirt? Credit: Ara - Artstation](../../.gitbook/assets/image.png)
+![Swirly Dirt! Who doesn't like swirly dirt? Credit: Ara - Artstation](<../../.gitbook/assets/image (3).png>)
 
 ### Block Model
 

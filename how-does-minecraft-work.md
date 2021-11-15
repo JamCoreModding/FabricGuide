@@ -11,7 +11,7 @@ description: >-
 
 When you type `/give @s minecraft:grass` have you ever wondered where Minecraft gets the actual block from? The answer is a registry. Registries are large maps of content accessed by `Identifier` Objects. Almost all pieces of content are stored in registries such as Registry.BLOCK, Registry.ITEM, etc.
 
-![Registries in a nutshell](<.gitbook/assets/image (2).png>)
+![Registries in a nutshell](<.gitbook/assets/image (5).png>)
 
 Minecraft initialises all the registries during the loading screen, and mod-loaders such as Fabric run your mod's initialisers afterwards. This is when you would typically register all the blocks, items and entities your mod would add to the game into minecraft's registry lists.&#x20;
 
@@ -31,11 +31,11 @@ An example of a **BlockState** would be: \
 `-type: bottom`\
 `-waterlogged: false`
 
-![How the singleton operates](<.gitbook/assets/image (3).png>)
+![How the singleton operates](<.gitbook/assets/image (7).png>)
 
 BlockStates are the ''real'' terrain data stored in chunks. Minecraft stores large lists of them as integers in special structures known as chunk sections (typically  a 16x16x16 region of blocks), which are in turn stored as a list in a more familiar world chunk.&#x20;
 
-![A chunk section (Empty chunk sections are not stored)](<.gitbook/assets/image (4).png>)
+![A chunk section (Empty chunk sections are not stored)](<.gitbook/assets/image (2).png>)
 
 \
 BlockStates come with a downside however; internally all possible states of a specific block are stored. Since adding more Properties _exponentially _increases the amount of BlockStates, a more robust solution is needed to store advanced blocks such as chests, crafting tables, furnaces and etc, which contain more complex data.&#x20;
@@ -63,9 +63,9 @@ as opposed to json files. Model Parts are processed versions of `TexturedModelDa
 \
 
 
-![Simplified view of the process](<.gitbook/assets/image (11).png>)
+![Simplified view of the process](<.gitbook/assets/image (10).png>)
 
-![A more detailed view of the process (not needed, but in case you want it)](<.gitbook/assets/image (10).png>)
+![A more detailed view of the process (not needed, but in case you want it)](<.gitbook/assets/image (11).png>)
 
 
 
