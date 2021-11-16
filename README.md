@@ -4,7 +4,7 @@
 
 You can probably see that this Guide is heavily WIP. We're constantly developing it, if you would like to contribute or help maintain it, please read the information [here](https://github.com/JamCoreModding/FabricTutorials)
 
-In a
+This wiki targets the Quilt mod loader, which for the most part has functional parity with Fabric
 
 ## Prerequisites
 
