@@ -8,7 +8,7 @@ This wiki targets the Quilt mod loader, which for the most part has functional p
 
 ## Prerequisites
 
-The content of this Wiki assumes you know basic Java and JSON knowledge, and have a copy of the example mod ready to be used, along with a setup IDE. You can find instructions to do all of this on the [official Wiki](https://fabricmc.net/wiki/tutorial:setup)
+The content of this Wiki assumes you know basic Java, Gradle and JSON knowledge, and have a copy of the example mod ready to be used, along with a setup IDE. You can find instructions to do all of this on the [official Wiki](https://fabricmc.net/wiki/tutorial:setup)
 
 If you want to learn more about Minecraft's internals, read this [page](how-does-minecraft-work.md)
 
