@@ -1,13 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [How does minecraft work?](how-does-minecraft-work.md)
 * [Contributors](contributors.md)
-
-## &#x20;Deployment and Automation
-
-* [GitHub Actions](deployment-and-automation/github-actions.md)
-* [JitPack](deployment-and-automation/jitpack.md)
+* [How does minecraft work?](how-does-minecraft-work.md)
 
 ## Items
 
@@ -46,3 +41,9 @@
 ## Commands
 
 * [Introduction to Commands](commands/introduction-to-commands.md)
+
+## Builds and Automation
+
+* [Building Your Mod](builds-and-automation/building-your-mod.md)
+* [GitHub Actions](builds-and-automation/github-actions.md)
+* [JitPack](builds-and-automation/jitpack.md)
