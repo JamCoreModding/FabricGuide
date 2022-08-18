@@ -1,8 +1,10 @@
+**DEPRECATION NOTICE: This guide is no longer actively maintained and will not receive any form of updates. It is being kept public as people do use it for its list of Fabric API events.**
+
 # Introduction
 
 ## A Quick Note
 
-You can probably see that this Guide is heavily WIP. We're constantly developing it, if you would like to contribute or help maintain it, please read the information [here](https://github.com/JamCoreModding/FabricTutorials).
+You can probably see that this Guide is heavily ~~WIP~~ not done. ~~We're constantly developing it, if you would like to contribute or help maintain it, please read the information [here](https://github.com/JamCoreModding/FabricTutorials)~~.
 
 This wiki targets the [Quilt mod loader](htps://quiltmc.org), which for the most part has parity with Fabric.
 
